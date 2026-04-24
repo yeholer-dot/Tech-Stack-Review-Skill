@@ -1,4 +1,4 @@
-# tech-stack-review
+# Tech-Stack-Review-Skill
 
 A Claude Code skill that produces a deep, structured tech stack analysis of any app, SaaS product, or digital tool — researched entirely from the outside, without source code access.
 

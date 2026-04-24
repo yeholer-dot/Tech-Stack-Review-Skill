@@ -24,6 +24,10 @@ You don't have source code access. Use every available public signal:
 
 Be explicit about confidence levels. When something is well-established (e.g., a native iOS app that's been around for years), say so. When something is inferred, flag it. Don't present speculation as fact.
 
+## Output
+
+Save the report as a Markdown file named `tech-stack-review-[product-name].md` (lowercase, hyphens for spaces) in the current working directory. Once saved, tell the user the filename. Do not print the full report in the chat.
+
 ---
 
 ## Report Structure
